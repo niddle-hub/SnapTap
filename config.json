@@ -1,0 +1,14 @@
+{
+  "1": {
+    "keys": ["a", "d"],
+    "enabled" : true
+  },
+  "2":{
+    "keys": ["w", "s"],
+    "enabled" : false
+  },
+  "3": {
+    "keys": ["q", "e"],
+    "enabled" : true
+  }
+}
